@@ -1,0 +1,1 @@
+zcat /workspace/comandos-linux/gatk-4.2.6.1/reference/chr{1..22}.fa.gz > hg38.fa #Ordenador e compilador de 22 cromossomos em formato fa.gz para arquivo único.fa
